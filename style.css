@@ -1,0 +1,183 @@
+/* .container{
+    margin: 0 auto;
+} */
+.flex {
+    display: flex;
+}
+.block{
+    display: block;
+}
+
+.header-wrap {
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu {
+    gap: 50px;
+    margin-top: 15px;
+}
+
+.p1-wrap {
+    gap: 93px;
+}
+
+.p2-wrap {
+    gap: 50px;
+}
+
+.logo {
+    margin-top: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF99;
+}
+
+.el1 {
+    color: #2196F3;
+}
+
+.el2 {
+    color: #757575;
+}
+
+/* section_1 */
+.sec_1_wrap {
+    background-color: #2F303A;
+    width: 100%;
+    height: 600px;
+    margin-top: 15px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-weight: 900px;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    padding: 200px;
+}
+
+.btn {
+    width: 216px;
+    height: 50px;
+    background-color: #2196F3;
+    color: #FFFFFF;
+    margin-left: 640px;
+}
+
+.button {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700px;
+    line-height: 30px;
+    padding: 10px 32px;
+    display: block;
+    margin-left: 12px;
+}
+
+.sec_2_wrap {
+    display: flex;
+    margin-left: 14%;
+    margin-top: 94px;
+}
+.sec_2_text {
+    width: 270px;
+    margin-top: 10px;
+    color: #757575;
+}
+.padding{
+    padding-left: 30px;
+}
+.sec_3_wrap {
+    margin-top: 200px;
+    display: flex;
+    margin-left: 45%;
+}
+.sec_3_pic{
+    margin-top: 50px;
+    margin-left: 215px;
+    gap: 30px;
+}
+.sec_4_wrap {
+    margin-top: 200px;
+    display: flex;
+    margin-left: 47%;
+}
+.sec_4_text{
+    margin-top: 10px;
+    margin-left: 215px;
+    display: flex;
+}
+.per_1{
+    margin-top: 30px;
+    margin-left: 286px;
+    width: 129px;
+}
+.per_2{
+    margin-top: 30px;
+    width: 104px;
+    margin-left: 183px;
+}
+.per_3{
+    margin-top: 30px;
+    margin-left: 153px;
+    width: 130px;
+}
+.per_4{
+    margin-top: 30px;
+    margin-left: 130px;
+    width: 145px;
+}
+.par_1{
+    margin-left: 285px;
+    margin-top: 10px;
+    color: #757575;
+}
+.par_2{
+    margin-left: 162px;
+    margin-top: 10px;
+    color: #757575;
+}
+.par_3{
+    margin-left: 188px;
+    margin-top: 10px;
+    color: #757575;
+}
+.par_4{
+    margin-left: 165px;
+    margin-top: 10px;
+    color: #757575;
+}
+.footer{
+    background-color: #2F303A;
+    width: 100%;
+    height: 252px;
+    margin-top: 93px;
+}
+.menu_2{
+    margin-top: 50px;
+    margin-left: 215px;
+}
+.logo_2{
+    margin-top: 108px;
+    margin-left: 215px;
+}
+.white{
+    color: #FFFFFF;
+}
+.black{
+    color: #212121;
+}
